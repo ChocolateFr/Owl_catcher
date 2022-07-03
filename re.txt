@@ -1,0 +1,4 @@
+orjson
+pyrogram
+lxml
+bs4

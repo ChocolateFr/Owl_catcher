@@ -1,7 +1,9 @@
 from pyrogram import client , filters
 import api
 from pyrogram import types
-bot = client.Client('bot')
+from conf import read_config
+data = read_config()
+bot = client.Client('bot' , data.api_id , data.api_hash , bot_token=data.token)
 
 persian_number = ['۱','۲','۳','۴','۵','۶','۷','۸','۹','۰',]
 cache = {}

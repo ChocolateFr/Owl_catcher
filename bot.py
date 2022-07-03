@@ -5,8 +5,9 @@ from conf import read_config
 data = read_config()
 bot = client.Client('bot' , data.api_id , data.api_hash , bot_token=data.token)
 
-persian_number = ['۱','۲','۳','۴','۵','۶','۷','۸','۹','۰',]
+
 cache = {}
+persian_number = ['۰','۱','۲','۳','۴','۵','۶','۷','۸','۹']
 class step:
     send_pswd = filters.user()
     get_pswd = filters.user()

@@ -52,7 +52,7 @@ $python bot.py
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/u/100207827?s=400&u=52171ce26f25ef02c9e2e72726438865b3f8dc8d&v=4">
 
-Made with ❤️ by [Hosein Erish](https://github.com/hosein erish), get in touch!
+Made with ❤️ by [Hosein Erish](https://github.com/hoseinerish), get in touch!
 
 <a href="mailto:thehoseinerish@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/hoseinerish" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;

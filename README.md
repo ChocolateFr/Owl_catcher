@@ -7,15 +7,15 @@
 </h3>
 
 <p align="center">
-	<img src="https://img.shields.io/github/license/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/repo-size/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/last-commit/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/languages/count/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/contributors/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/issues-raw/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/issues-closed-raw/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/issues-pr-raw/hosein erish/Owl_catcher?color=green"/>
-	<img src="https://img.shields.io/github/issues-pr-closed-raw/hosein erish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/license/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/repo-size/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/last-commit/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/languages/count/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/contributors/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/issues-raw/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/issues-closed-raw/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/issues-pr-raw/hoseinerish/Owl_catcher?color=green"/>
+	<img src="https://img.shields.io/github/issues-pr-closed-raw/hoseinerish/Owl_catcher?color=green"/>
 </p>
 
 <h4 align="center">

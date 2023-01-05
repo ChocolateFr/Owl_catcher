@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="center">
-	Status: ✔️ Available
+	Status: 🚫 Buggy
 </h4>
 
 <p align="center">
